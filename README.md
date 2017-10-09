@@ -1,4 +1,6 @@
 # [Flat UI Free](http://designmodo.github.io/Flat-UI/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FFlat-UI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FFlat-UI?ref=badge_shield)
+
 
 Flat UI is a beautiful theme for [Bootstrap](http://getbootstrap.com). We have redesigned many of its components to look flat in every pixel.
 
@@ -108,6 +110,9 @@ If you are interested in SASS source files - you can visit this project made by 
 Flat UI Free is licensed under a Creative Commons Attribution 3.0 Unported (CC BY 3.0)  (http://creativecommons.org/licenses/by/3.0/) and MIT License - http://opensource.org/licenses/mit-license.html.
 
 You are allowed to use these elements anywhere you want, however we’ll highly appreciate if you will link to our [website](http://designmodo.com).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FFlat-UI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FFlat-UI?ref=badge_large)
 
 ## Typeface
 
